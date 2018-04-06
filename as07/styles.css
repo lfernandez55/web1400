@@ -1,0 +1,54 @@
+/* TODO New Declaration: Select the *body* element. Set the width to 1200px, margin to 0 auto, font family to "Helvetica Neue", font size to 14px. */
+
+
+/* Select the ul element.  Set its padding to 0 */
+
+
+/* TODO New Declaration: Select the *header* element. Set the top border to a solid one pixel border with the color rgba(28, 86, 126, .4). */
+
+
+
+/* TODO New Declaration: Select the *h1* element that is a descendant of the *header* element. Set the text align property to center, padding to 3px 0 20px, color to #1C567E, and display the element inline-block. 
+*/
+
+    
+    
+/* TODO New Declaration: Select the *nav* element. Set the display of the element to inline-block, the overflow property to hidden, margin to 0 auto, the top margin to 30px, float it right. */
+
+    
+/* TODO New Declaration: Select the *li* elements that are descendants of a *nav* element. Set the list style type property to none, padding to 20px and display the element inline. */
+
+
+/* TODO New Declaration: Select all *a* elements that are descendants of an *li* element that is a descendant of a *nav* element. Set the padding to 10px, color to #000000, font size to 18px,  text transform property to uppercase, and text decoration property to none.  */
+
+
+
+/* TODO New Declaration: Select all *section* elements and set the width to 559px, the padding to 20px, float them left, and set the text align property to center. */
+
+
+
+/* TODO New Declaration: Select all elements that have a class of *right*. Add a right border with the following: solid 1px #1C567E. */
+
+
+/* TODO New Declaration: Select all elements that have a class of *bottom*. Add a bottom border with the following: solid 1px #1C567E. */
+
+
+/* TODO New Declaration: Select all *button* elements. Set the width to 150px, padding to 10px, the top margin to 10px. Give the button a background color of #1C567E and color the text white. */
+
+
+
+/* TODO New Declaration: Select the *footer* element. Set the height to 100px, use the clear property to clear both sides. Set the background color to #1C567E and align the text to the center. */
+
+
+/* TODO New Declaration: Select the *p* elements that are descendants of the *footer* element. Set the top padding property to 50px and color the text white. */
+
+
+/* TODO New Declaration: Select all *h3* and button *elements* and uppercase their text. */
+
+
+/* TODO New Media Query: Test for a max-width less than 600px and only for the screen media type. Don't forget the opening brace. */
+
+/* TODO Add the appropriate CSS expressions so when the screen size drops below 600px the layout rearranges itself as it does in this video:
+/* If you cannot get this to work, you can get extra hints by visiting the Chi Tester test at https://chitester.weber.edu/chi.cfm?testID=115909 (password: "penalty"). However, if you use this test, you will accrue a 25 point penalty.  */
+
+/* TODO Brace: Add a closing brace for the media query. */
